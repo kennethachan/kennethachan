@@ -7,3 +7,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Ive been skateboarding since I was 8 years old! 
 
+### Check out my projects! 
+#### [Lucidity](https://lucidity-productivity.herokuapp.com/)
+#### [Pokedex](https://pokedexkanto.surge.sh/)
+#### [Tic Tac Toe](https://gloomytictactoe.surge.sh/)
+
+
