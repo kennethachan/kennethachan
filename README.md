@@ -1,4 +1,4 @@
-### Hi there 👋
+### h e l l o 
 
 - 🔭 I’m currently a software engineering student at General Assembly! | June 2022 - Sept 2022 
 - 🌱 I’m currently learning: PostgreSQL | Sequelize | Vue.js | Python | Django
