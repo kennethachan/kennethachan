@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-I am an enthusiastic Full Stack Software Engineer with a diverse background ranging from woodworking to architectural design. I am a creator. I am always curious. I have a strong ambition to create work that is uniquely enjoyable and fulfilling to the user’s experience.
+Full Stack Software Engineer with a diverse background ranging from woodworking to architectural design. I am a creator. I am always curious. I have a strong ambition to create work that is uniquely enjoyable and fulfilling to the user’s experience.
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [http://kennethachan.netlify.app/](http://http://kennethachan.netlify.app/)
