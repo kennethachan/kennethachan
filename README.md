@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-Full Stack Software Engineer with a diverse background ranging from woodworking to architectural design. I am a creator. I am always curious. I have a strong ambition to create work that is uniquely enjoyable and fulfilling to the user’s experience.
+I am a graduate of General Assembly's Software Engineering Immersive Program with a non-coding background in architecture. My studies and experience in the architectural field had fostered in me an interest in social impact, sustainability, aesthetics, authenticity, design and most importantly to find solutions to real world problems using technology. I am currently applying the skills I gained to continue building projects and search for career opportunities in tech.  A little bit more about me, I enjoy skateboarding, DIY building, film photography and film!
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [http://kennethachan.netlify.app/](http://http://kennethachan.netlify.app/)
 * ✉️  You can contact me at [kennethandrechan@gmail.com](mailto:kennethandrechan@gmail.com)
-* 🧠  I'm learning Vue and Python
+* 🧠  I'm learning Django and Python
 * 🤝  I'm open to collaborating on React Apps!
 * ⚡  I love to skate!
 
