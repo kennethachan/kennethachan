@@ -42,6 +42,9 @@ I am a graduate of General Assembly's Software Engineering Immersive Program wit
 <a href="http://www.github.com/kennethachan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kennethachan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Check out my projects! 
+#### [SpotCheck](http://spotcheck-sk8.herokuapp.com/)
+#### [Weather App](https://warmweatherapp.surge.sh/)
+#### [Rabido](https://powerful-retreat-33440.herokuapp.com/)
 #### [Lucidity](https://lucidity-productivity.herokuapp.com/)
 #### [Pokedex](https://pokedexkanto.surge.sh/)
 #### [Tic Tac Toe](https://gloomytictactoe.surge.sh/)
